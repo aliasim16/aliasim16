@@ -1,6 +1,6 @@
 
 <h1 >Hi 👋, I'm Ali Asım</h1>
-<h3 >A passionate frontend developer from Turkey</h3>
+<h3 >A passionate developer from Turkey</h3>
 
 
 
